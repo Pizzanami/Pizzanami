@@ -16,17 +16,10 @@ Welcome to my GitHub profile! I'm a student at the University of Guanajuato purs
 - 📚 I use private repositories to manage coursework, including machine learning models and AI research.
 - 💻 I'm developing projects in Python, including **vector quantization** for image compression and **nearest centroid classifiers** for medical image classification.
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pitzanami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-
 ## Featured Projects
 
-- **[Cuantificación Vectorial y Compresión de Imágenes](https://github.com/Pizzanami/CuantificacionVectorial_CompresionImagenes)**: My final project for AI, using vector quantization to compress grayscale images.
-- **[Web Portfolio](https://github.com/Pizzanami/Portafolio)**: Built with HTML5, CSS, JS, and Bootstrap to showcase my academic and personal projects.
+- **[Cuantificación Vectorial y Compresión de Imágenes](https://github.com/Pitzanami/CuantificacionVectorial_CompresionImagenes)**: My final project for AI, using vector quantization to compress grayscale images.
+- **[Web Portfolio](https://github.com/Pitzanami/Portafolio)**: Built with HTML5, CSS, JS, and Bootstrap to showcase my academic and personal projects.
 
 ## Skills
 
